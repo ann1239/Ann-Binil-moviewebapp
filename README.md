@@ -1,16 +1,15 @@
-# Movie-library-web-application
-Movie library web application with authentication using firebase 
+Ann Binil wolkus placement assignment
+Movie library web application 
 
-Movie library Web Application using OMDB Api
-http://www.omdbapi.com/
-
-Auth-implementaion using Firebase
-https://firebase.google.com
-
-For Deployment
-https://app.netlify.com/
-
-For preview
+site link:
 https://movielibrarywebauth.netlify.app
 
 
+Firebase
+https://firebase.google.com
+
+Deployment using netlify
+https://app.netlify.com/
+
+OMDB Api
+http://www.omdbapi.com/
